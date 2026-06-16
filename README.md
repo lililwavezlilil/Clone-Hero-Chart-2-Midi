@@ -32,4 +32,6 @@ https://github.com/lililwavezlilil
 
 • When converted, the .mid/midi file(s) retain the exact same Guitar, Bass, Rhythm, Keys, Star Power, etc. chart from the notes.chart file(s)
 
+<img width="3840" height="2160" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/c7809103-7b35-4344-bbf5-d6c26ec0547d" />
+<img width="3840" height="2160" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/248d52cb-c2b3-49c1-b60b-93fd64bdd5d2" />
 <div align="center"><picture><img width="256" height="256" alt="Clone Hero Chart 2 Midi Icon 2" src="https://github.com/user-attachments/assets/73196bad-19b2-41c6-8f09-da628e5fbfaf" /><picture><div>
